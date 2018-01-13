@@ -17,7 +17,7 @@ title: Planit
 email: alex.grover@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
  First Static site attempt following guide at - https://www.taniarascia.com/make-a-static-website-with-jekyll/ 
-baseurl: "static-web" # the subpath of your site, e.g. /blog
+baseurl: "/static-web" # the subpath of your site, e.g. /blog
 url: "http://groveale.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: groveale
 github_username:  groveale
